@@ -16,3 +16,5 @@ tanpa ada lonjakan trafik di database / server, karena lonjakan di tampung di an
 6. ling api : http://localhost:3000/register
 7. stting geadernya Content-Type: application/json
 8. isi body nya {"name": "anggi", "email": "anggi@example.com"}
+
+
