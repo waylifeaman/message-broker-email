@@ -17,4 +17,11 @@ tanpa ada lonjakan trafik di database / server, karena lonjakan di tampung di an
 7. stting geadernya Content-Type: application/json
 8. isi body nya {"name": "anggi", "email": "anggi@example.com"}
 
-
+# message broker 
+1. RabbitMQ
+2. Apache Kafka
+3. Redis Pub/Sub
+4. Amazon SQS / Google Cloud Pub/Sub
+    contoh google cloud yang bisa di pake api.cloudamqp.com,
+   bisa daftar dan coba yang layanan gratis
+         
